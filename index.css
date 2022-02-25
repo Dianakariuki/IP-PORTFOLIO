@@ -38,3 +38,9 @@ body{
             border-radius: 50%;
         }
         
+p{
+    position: relative;
+    bottom: 40px;
+    
+
+}
