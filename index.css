@@ -48,3 +48,8 @@ p{
 .second-section{
     margin-top: 300px;
     }
+
+    .one{
+        height: 600px;
+        width: auto;
+        }
