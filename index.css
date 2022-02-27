@@ -2,6 +2,7 @@
 body{
     background-color: black;
     color: white;
+    font-family: League Spartan, Helvetica, Arial, sans-serif;
 }
 
 
@@ -28,12 +29,15 @@ body{
 
      .first-section{
         margin-top: 200px
-        ;
-        }
+        ;}
+      
+
+    
+
         .rep{
             float: right;
             position: relative;
-            bottom:210px;
+            bottom:220px;
             border-style: dashed;
             border-radius: 50%;
         }
@@ -53,5 +57,14 @@ p{
         height: 600px;
         width: auto;
         }
-        section-four{
+ .section-four{
             margin-top: 100px;}
+
+.nav-link{
+color:white;
+font-weight: 900;
+}
+.proj{
+    color:white;
+    font-weight: bold;
+}
