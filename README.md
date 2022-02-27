@@ -38,4 +38,4 @@
 
 ## Licence 
 * MIT
-* Copy right (c) 2022 [click to view LICENE]
+* Copy right (c) 2022 [click to view LICENCE]
