@@ -37,7 +37,7 @@ body{
         .rep{
             float: right;
             position: relative;
-            bottom:220px;
+            bottom:290px;
             border-style: dashed;
             border-radius: 50%;
         }
@@ -83,4 +83,13 @@ footer{
     text-align: center;
     position: relative;
     left: 100px;
+}
+#intro{
+    font-size: 70px;
+    
+}
+#title-p{
+    text-align: center;
+    margin-top: 40px;
+    margin-top: 40px;
 }
