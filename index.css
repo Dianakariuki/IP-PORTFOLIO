@@ -2,7 +2,7 @@
 body{
     background-color: black;
     color: white;
-    font-family: League Spartan, Helvetica, Arial, sans-serif;
+    font-family: /*League Spartan, Helvetica, Arial, sans-serif*/ Gilroy;
 }
 
 
@@ -67,4 +67,20 @@ font-weight: 900;
 .proj{
     color:white;
     font-weight: bold;
+}
+.section-four{
+    text-align: center;
+    border: solid thin white;
+    padding-top: 50px;
+    margin-bottom:50px ;
+}
+footer{
+    text-align: center;
+}
+
+#ab{
+    font-size:70px;
+    text-align: center;
+    position: relative;
+    left: 100px;
 }
